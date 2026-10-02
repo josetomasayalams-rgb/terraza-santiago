@@ -1,0 +1,176 @@
+{
+  "fecha": "2026-10-02",
+  "sin_ampliacion_de_archivos_IA": true,
+  "imagenes": [
+    {
+      "archivo": "Imagenes/01_A_General.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "603738fb8799dbd18e3179abdc07e96783091a0218a82675adb78570888b0ec3"
+    },
+    {
+      "archivo": "Imagenes/02_B_General.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "1ff25d4dd4acd706528b8841392a860e8aa1b44de0b0018e40de436745da8908"
+    },
+    {
+      "archivo": "Imagenes/03_Sillon_izquierdo.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "dcf536b1975a9514de00c4b4e4c50e2f673b970cac476cc8b365c47f4732d595"
+    },
+    {
+      "archivo": "Imagenes/04_Sillon_derecho.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "2cf4362669c5437d88d5afd67c07e983ba533bfe3b0efac1b750a07a68b1c475"
+    },
+    {
+      "archivo": "Imagenes/05_Pared_madera.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "9637d91570f1a852cb22e869cb73ab71d4b9a9b7f34bf4283e552c97248bc4ce"
+    },
+    {
+      "archivo": "Imagenes/06_Meson_Ninja.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "4ac66ebb5e07900365932c6f2c48664fdbb9e192d21eee8e5b289fd759f0fce6"
+    },
+    {
+      "archivo": "Imagenes/07_Mesa_central.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "18e93b521a04ef9de15aff4637cddd01b3fa01adf5126453339ab8167f6c1036"
+    },
+    {
+      "archivo": "Imagenes/08_Mesas_picoteo.png",
+      "pixeles": [
+        1672,
+        941
+      ],
+      "full_hd_nativo": false,
+      "tipo": "render_IA_nativo",
+      "sha256": "6e706057261fb8c39f2884501d5ef57cf6a17017cb582ddbf1331215249bbc53"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/01_full_A_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "0a28db60defe89cfbe69662f484539f2e345c79c85b8706e09f37c27c36f2232"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/02_full_B_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "852a8ecfce28e41a585582a4469d59c56f6c10a876b354a6e492b44154c55890"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/03_shell_B_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "d9804528ad928d2d94be9df647f91623367d2358573cfe7056f97072a7efe4b4"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/04_wall_B_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "264712823415457622f912f5caf89462e54756f118cbcff4384dbd597167de4b"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/05_left_B_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "ecb925e8ae5a1b108a6bb159732d4f42d7ed800973396d49113f7f0314d9abce"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/06_right_B_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "5ee3e7f59aa28ab7abcc15917118b1b1e9a656245d6caefdab9e9419eabd815e"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/07_dining_A_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "d9c600b6ac1176c22690d617d9019df911e382e22e4303884eac0a637a9cebbe"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/08_picoteo_B_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "052c6f8a95cbf26e2b41d532529764260b1581ca662571bd9d743673a5e3b2a6"
+    },
+    {
+      "archivo": "Exportaciones_FullHD/FullHD/09_ninja_B_1920x1080.png",
+      "pixeles": [
+        1920,
+        1080
+      ],
+      "full_hd_nativo": true,
+      "tipo": "demo_geometria_3D",
+      "sha256": "0521278367f4f081a32d895aee0e72a71cb00bccba6b1e8610aa39850396b119"
+    }
+  ]
+}

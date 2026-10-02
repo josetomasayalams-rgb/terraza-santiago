@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "esbuild": "^0.25.10",
+    "fflate": "^0.8.2",
+    "three": "^0.180.0"
+  },
+  "name": "terraza-santiago",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "esbuild app.js --bundle --format=iife --outfile=estudio.bundle.js --minify",
+    "serve": "python3 -m http.server 8771 --bind 127.0.0.1"
+  }
+}

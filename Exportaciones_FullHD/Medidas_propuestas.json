@@ -1,0 +1,58 @@
+{
+  "terrace": {
+    "width": 3.2,
+    "depth": 1.64,
+    "height": 2.25,
+    "status": "Medidas registradas"
+  },
+  "wall": {
+    "length": 1.46,
+    "height": 2.25,
+    "recess": 0.17,
+    "status": "146 cm y sacado de 17 cm: indicación del usuario"
+  },
+  "left": {
+    "length": 1.46,
+    "depth": 0.65,
+    "returnLength": 1.3,
+    "usefulReturn": 1.2,
+    "seatHeight": 0.43,
+    "backHeight": 0.8,
+    "status": "146 cm solicitado; resto propuesto"
+  },
+  "right": {
+    "width": 1.15,
+    "depth": 0.6,
+    "seatHeight": 0.43,
+    "backHeight": 0.8,
+    "status": "Volumen propuesto; sillón derecho sin medidas verificadas"
+  },
+  "dining": {
+    "diameter": 0.65,
+    "height": 0.74,
+    "status": "Propuesta"
+  },
+  "picoteo": {
+    "width": 0.78,
+    "depth": 0.48,
+    "height": 0.43,
+    "status": "Propuesta, tablas ampliadas"
+  },
+  "ninja": {
+    "length": 1.35,
+    "maxDepth": 0.65,
+    "prepDepth": 0.35,
+    "height": 1.05,
+    "status": "Propuesta; altura de barra y equipo por medir"
+  },
+  "opening": {
+    "width": 1.2,
+    "status": "Apertura nominal registrada; no ancho útil con muebles"
+  },
+  "assumptions": [
+    "La posición transversal del sacado se dibuja esquemáticamente, no se acota su eje de 29 cm.",
+    "La diferencia de 1 cm entre 146 + 17 y profundidad de 164 cm no se elimina.",
+    "La condensadora y Ninja son volúmenes de referencia, no modelos OEM ni encastres comprobados.",
+    "La geometría es una maqueta de diseño: no valida pasillos, capacidad de barra o ventilación."
+  ]
+}

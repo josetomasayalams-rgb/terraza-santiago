@@ -1,0 +1,4 @@
+Terraza Santiago · demos de maqueta 3D
+9 imágenes PNG renderizadas directamente en 1920 × 1080 píxeles. No son ampliaciones de los renders IA.
+Las imágenes son demos de geometría de diseño, no modelos OEM ni planos de fabricación. Las medidas propuestas/ilustrativas están en el JSON.
+Los renders IA de ambientación se entregan por separado con su resolución nativa.
